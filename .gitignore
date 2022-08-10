@@ -13,3 +13,4 @@ sendmail_pyd-test-*
 *.o
 *.obj
 *.lst
+*selections.json

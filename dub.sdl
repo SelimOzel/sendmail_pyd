@@ -1,0 +1,8 @@
+name "sendmail_pyd"
+description "Sends mail via python."
+authors "sozel"
+copyright "Copyright © 2022, sozel"
+license "proprietary"
+
+dependency "pyd" version="~>0.14.3"
+subConfiguration "pyd" "python38"

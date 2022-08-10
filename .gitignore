@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/sendmail_pyd
+sendmail_pyd.so
+sendmail_pyd.dylib
+sendmail_pyd.dll
+sendmail_pyd.a
+sendmail_pyd.lib
+sendmail_pyd-test-*
+*.exe
+*.o
+*.obj
+*.lst
